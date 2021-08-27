@@ -1,5 +1,8 @@
 # Google Cloud IoT JWT
 
+Changes from original google cloud iot library:
+1. keepgoing false
+2. remove maxbackoff delay
 This is an example of how to generate JSON Web Token (JWT) credentials for
 connecting to Google Cloud IoT Core.
 
